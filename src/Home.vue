@@ -18,7 +18,7 @@ const handleKey = ()=>{
   <body>
     <div class="container">
       <header>
-        <h1><span>Welcome</span> to iKurd</h1>
+        <h1><span>Welcome to </span> Key Store</h1>
         <button class="connect-button">Connect</button>
       </header>
       <div class="login-box">
